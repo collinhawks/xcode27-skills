@@ -1,0 +1,4 @@
+interface:
+  display_name: "App Intents: iOS 26–27"
+  short_description: "Adopt and test newer iOS 26–27 App Intents APIs"
+  default_prompt: "Use $app-intents-whats-new-27 to help me adopt the latest public App Intents APIs safely."

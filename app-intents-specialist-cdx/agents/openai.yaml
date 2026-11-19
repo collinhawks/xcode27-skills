@@ -1,0 +1,4 @@
+interface:
+  display_name: "App Intents Specialist"
+  short_description: "Implement and review Swift App Intents and Shortcuts"
+  default_prompt: "Use $app-intents-specialist to review my App Intents implementation for correctness and best practices."
